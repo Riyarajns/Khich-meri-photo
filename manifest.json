@@ -1,0 +1,39 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "WeddingBazaar",
+  "short_name": "WeddingBazaar",
+  "start_url": "https://www.weddingbazaar.com/?esrc=pwa",
+  "url": "https://www.weddingbazaar.com",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "https://images.shaadisaga.com/shaadisaga_production/static/WB-pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://images.shaadisaga.com/shaadisaga_production/static/WB-pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://images.shaadisaga.com/shaadisaga_production/static/WB-pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.shaadisaga.com/shaadisaga_production/static/WB-pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#fa4a6f",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "gcm_sender_id": "103953800507",
+  "description": "Find & Book wedding services online in all Indian cities - Photographers, Makeup Artists, Venues, Bridal Lehengas, Decorators & more. See past work, compare quotations from vendors, get Contact Info. & read Latest Reviews. Follow the latest wedding trends, checklists, ideas & see photos only on WeddingBazaar Blog."
+}
